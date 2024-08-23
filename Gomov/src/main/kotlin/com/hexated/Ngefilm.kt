@@ -12,6 +12,7 @@ class Ngefilm : Gomov() {
         "/page/%d/?s=&search=advanced&post_type=tv&index=&orderby=&genre=&movieyear=&country=&quality=" to "Series Terbaru",
         "/page/%d/?s=&search=advanced&post_type=tv&index=&orderby=&genre=drakor&movieyear=&country=&quality=" to "Series Korea",
         "/page/%d/?s=&search=advanced&post_type=tv&index=&orderby=&genre=&movieyear=&country=indonesia&quality=" to "Series Indonesia",
+        "/pagd/%d/?s=&search=advanced&post_type=&index=&orderby=&genre=dubbing&movieyear=&country=&quality=" to "Dubbing Indonesia",
     )
 
 }
